@@ -1,0 +1,28 @@
+
+body{
+    background-image: url('https://papers.co/wallpaper/papers.co-sm01-purple-soft-blur-gradation-29-wallpaper.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-container{
+    background-color: white;
+    width: 500px;
+  }
+
+  .email{
+    padding-right: 120px;
+  }
+
+  .password{
+    text-wrap: balance;
+    padding-left: 122px;
+  }
